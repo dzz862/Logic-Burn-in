@@ -15,13 +15,13 @@ using Logic;
 
 namespace MP6422_Test_Controller
 {
-    public partial class Form1 : CCSkinMain
+    public partial class MainWindow : CCSkinMain
     {
 
         List<List<int>> data = new List<List<int>>();
         List<List<int>> wave = new List<List<int>>();
 
-        public Form1()
+        public MainWindow()
         {
             InitializeComponent();
             Sys_Initial();

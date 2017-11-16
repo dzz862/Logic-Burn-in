@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MP6422_Test_Controller.Properties {
+namespace MPS_Logic_Burn_in.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

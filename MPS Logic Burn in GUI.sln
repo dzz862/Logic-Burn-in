@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPS Test Helper", "MP6422 Test Controller\MPS Test Helper.csproj", "{501161A1-E3BF-4FF3-8092-CCC2BB6B649E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPS Logic Burn in GUI", "MPS Logic Burn in GUI\MPS Logic Burn in GUI.csproj", "{501161A1-E3BF-4FF3-8092-CCC2BB6B649E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{8E3EBE51-6727-4376-8C9D-D72F7F9CC66B}"
 EndProject
